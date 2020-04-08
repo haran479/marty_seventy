@@ -1,5 +1,6 @@
 body {
 margin-left: 200px;
+padding: 15px;
 background-color:#A64F1C;
 }
 
@@ -19,11 +20,6 @@ font-size: 18px;
 color: #F2D49B;
 }
 
-.text {
-	padding-top: 10px;
-	height: auto;
-	width: 700px;
-}
 canvas {
   display: block;
 }
