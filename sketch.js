@@ -7,7 +7,7 @@ function preload (){
 
 
 function setup() {
- createCanvas(500,700);
+ createCanvas(600px,600px);
    
 }
 function draw (){ 
