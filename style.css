@@ -1,14 +1,6 @@
 body {
-  margin: 0;
-  display: flex;
-
-  /* This centers our sketch horizontally. */
-  justify-content: center;
-
-  /* This centers our sketch vertically. */
-  align-items: center;
-
-padding: 15;
+ margin-left: 150px;
+  padding: 15;
 background-color:#A64F1C;
 }
 
@@ -19,7 +11,16 @@ font-style: normal;
 font-size: 60px;
 color:#F2D49B;
 }
+.canvas{
+   margin: 0;
+  display: flex;
 
+  /* This centers our sketch horizontally. */
+  justify-content: center;
+
+  /* This centers our sketch vertically. */
+  align-items: center;
+}
 p {
 font-family: roboto,sans-serif;
 font-weight: 300;
